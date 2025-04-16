@@ -7,3 +7,18 @@
     border: solid 1px #888;
     background-color: #DDD8C4;
   }
+
+.file-photo {
+  margin: 10px;
+  max-width: 500px;
+}
+
+.vs-photo {
+  margin: 10px;
+  max-width: 500px;
+}
+
+.site-photo {
+  margin: 10px;
+  max-width: 500px;
+}
