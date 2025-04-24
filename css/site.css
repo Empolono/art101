@@ -1,5 +1,5 @@
 body {
-  background-color: #ffffff;
+  background-color: #ffbbff;
 }
 
 h1,h2,h3 {
@@ -16,12 +16,12 @@ h1 {
   margin: 10px;
   padding: 10px;
   border: solid 5px #000000;
-  background-color: #ffffff;
+  background-color: #ffbbff;
 }
 
 .minor-section {
   padding: 10px;
   margin-bottom: 10px;
   border: solid 5px #000000;
-  background-color: #ffffff;
+  background-color: #ffbbff;
 }
