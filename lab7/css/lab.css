@@ -1,0 +1,12 @@
+
+.minor-section {
+  padding: 5px;
+  margin-bottom: 5px;
+  border: solid 5px #ffbbff;
+  background-color: #fff1fe;
+}
+
+.file-photo {
+  margin: 5px;
+  max-width: 500px;
+}
