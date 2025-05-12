@@ -10,3 +10,10 @@
   margin: 5px;
   max-width: 500px;
 }
+
+.special {    
+  background-color: #ffbbff;
+  border: groove 50px #fff1fe;
+  color: #ffbbff;
+  font-weight: bold;
+}
