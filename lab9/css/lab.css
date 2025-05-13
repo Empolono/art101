@@ -12,8 +12,7 @@
 }
 
 .special {    
-  background-color: #ffbbff;
-  border: groove 50px #fff1fe;
-  color: #ffbbff;
+  background-color: #fff1fe;
+  border: ridge 50px #ffbbff;
   font-weight: bold;
 }
