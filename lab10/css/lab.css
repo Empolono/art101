@@ -1,0 +1,17 @@
+
+.file-photo {
+  margin: 5px;
+  max-width: 500px;
+}
+
+.text p {
+  display: inline-block;
+  max-width: 60%;
+  margin: 3px;
+  padding: 5px 10px;
+  border-radius: 15px;
+  background-color: #ffbbff;
+  color: #000000;
+  font-family: sans-serif;
+  font-size: 1em;
+}
