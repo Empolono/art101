@@ -1,0 +1,14 @@
+
+.file-photo {
+  margin: 5px;
+  max-width: 500px;
+}
+
+.text p {
+  display: inline-block;
+  margin: 5px;
+  border-radius: 15px;
+  background-color: #ffbbff;
+  color: #000000;
+  font-size: 1em;
+}
