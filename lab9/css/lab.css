@@ -11,6 +11,30 @@
   max-width: 500px;
 }
 
+.specialChallenge {    
+  background-color: #fff1fe;
+  border: double 50px #ffbbff;
+  font-weight: bold;
+}
+
+.specialProblems {    
+  background-color: #fff1fe;
+  border: groove 50px #ffbbff;
+  font-weight: bold;
+}
+
+.specialReflection {    
+  background-color: #fff1fe;
+  border: dashed 50px #ffbbff;
+  font-weight: bold;
+}
+
+.specialLinks {    
+  background-color: #fff1fe;
+  border: dotted 50px #ffbbff;
+  font-weight: bold;
+}
+
 .special {    
   background-color: #fff1fe;
   border: ridge 50px #ffbbff;
