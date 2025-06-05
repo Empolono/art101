@@ -9,7 +9,7 @@ $(document).ready(function() {
   // when button clicked, make API call
   $("#activate").click(function() {
     $.ajax({
-      url: "https://xkcd.com/info.0.json", // Example using XKCD API
+      url: "https://xkcd.com/info.0.json",
       type: "GET",
       dataType: "json",
       success: function(comicObj) {
